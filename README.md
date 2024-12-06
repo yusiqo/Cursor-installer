@@ -13,6 +13,7 @@ This project is a Bash script that downloads a Cursor AppImage file, makes it ex
 ## Usage
 
 Only One Step. Copy And Run Code:
+
    ```bash
    bash <(curl -s https://raw.githubusercontent.com/yusiqo/Cursor-installer/main/install.sh)
    ```
@@ -20,6 +21,7 @@ Only One Step. Copy And Run Code:
 ## Requirements
 
 - `curl` must be installed on your system. Install it using:
+
   ```bash
   sudo apt install curl
   ```

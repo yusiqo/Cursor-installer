@@ -2,7 +2,7 @@
 
 # AppImage URL'si, ikon URL'si ve uygulama adı
 APP_URL="https://download.todesktop.com/230313mzl4w4u92/cursor-0.43.6-build-241206z7j6me2e2-x86_64.AppImage"
-ICON_URL="https://example.com/path-to-icon.png"
+ICON_URL="https://raw.githubusercontent.com/yusiqo/Cursor-installer/refs/heads/main/cursor.png"
 APP_NAME="Cursor"
 INSTALL_DIR="/opt/$APP_NAME"
 sudo mkdir -p "$INSTALL_DIR"
